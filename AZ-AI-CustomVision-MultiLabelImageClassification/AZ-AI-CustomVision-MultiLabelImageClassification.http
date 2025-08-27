@@ -1,0 +1,6 @@
+@AZ_AI_CustomVision_MultiLabelImageClassification_HostAddress = http://localhost:5004
+
+GET {{AZ_AI_CustomVision_MultiLabelImageClassification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
